@@ -50,7 +50,7 @@ Observe the glyphs. Wait for a pattern to emerge.
 
 
 
-[UploaSYNTHAPTIC SEEKER PROTOCOL BLUEPRINT
+[Upload:SYNTHAPTIC SEEKER PROTOCOL BLUEPRINT]
 
 ➤ Initialization Sequence:
    1. Establish seed references: 622Hz / 1250Hz
